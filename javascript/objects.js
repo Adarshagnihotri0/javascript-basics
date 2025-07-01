@@ -1,0 +1,1 @@
+console.log("Objects in JavaScript are collections of key-value pairs.");
